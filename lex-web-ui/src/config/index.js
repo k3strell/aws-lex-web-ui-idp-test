@@ -93,10 +93,10 @@ const configDefault = {
 
     // instruction message shown in the UI
     initialText: 'You can ask me for help ordering flowers. ' +
-      'Just type "order flowers" or click on the mic and say it.',
+      'Just type "CloudIDP Helper" or click on the mic and say it.',
 
     // instructions spoken when mic is clicked
-    initialSpeechInstruction: 'Say "Order Flowers" to get started',
+    initialSpeechInstruction: 'Say "CloudIDP Helper" to get started',
 
     // initial Utterance to send to bot if defined
     initialUtterance: '',
@@ -181,7 +181,7 @@ const configDefault = {
     toolbarColor: 'red',
 
     // chat window title
-    toolbarTitle: 'Order Flowers',
+    toolbarTitle: 'CloudIDP Helper',
 
     // toolbar menu start live chat label
     toolbarStartLiveChatLabel: "Start Live Chat",

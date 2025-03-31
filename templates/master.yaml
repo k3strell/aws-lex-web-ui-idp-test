@@ -318,7 +318,7 @@ Parameters:
 
     WebAppConfToolbarTitle:
         Type: String
-        Default: Order Flowers
+        Default: CloudIDP Helper
         Description: Title displayed in the chatbot UI toolbar
 
     WebAppConfCname:

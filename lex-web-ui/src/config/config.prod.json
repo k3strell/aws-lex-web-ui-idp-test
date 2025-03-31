@@ -4,8 +4,8 @@
   },
   "lex": {
     "botName": "WebUiOrderFlowers",
-    "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'Order Flowers' to get started."
+    "initialText": "You can ask me for help ordering flowers. Just type \"CloudIDP Helper\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'CloudIDP Helper' to get started."
   },
   "polly": {
     "voiceId": "Salli"
@@ -13,7 +13,7 @@
   "ui": {
     "parentOrigin": "",
     "pageTitle": "CloudIDP Helper",
-    "toolbarTitle": "Order Flowers",
+    "toolbarTitle": "CloudIDP Helper",
     "enableLiveChat": false
   },
   "connect": {

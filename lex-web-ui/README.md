@@ -455,7 +455,7 @@ New features in this version include feedback buttons inside the message bubble 
 ```
   "ui": {
     "parentOrigin": "",
-    "toolbarTitle": "Order Flowers",
+    "toolbarTitle": "CloudIDP Helper",
     "toolbarLogo": "",
     "helpIntent": "",
     "positiveFeedbackIntent": "",

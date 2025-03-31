@@ -14,7 +14,7 @@
     "lex": {
       "botName": "QnABot_BotuU",
       "initialText": "This is from AWS TEST CONFING",
-      "initialSpeechInstruction": "Say 'Order Flowers' to get started."
+      "initialSpeechInstruction": "Say 'CloudIDP Helper' to get started."
     },
     "polly": {
       "voiceId": "Salli"
