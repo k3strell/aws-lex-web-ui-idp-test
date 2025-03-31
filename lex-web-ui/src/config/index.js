@@ -155,7 +155,7 @@ const configDefault = {
 
   ui: {
     // this dynamicall changes the pageTitle injected at build time
-    pageTitle: 'Order Flowers Bot',
+    pageTitle: 'CloudIDP Helper',
 
     // when running as an embedded iframe, this will be used as the
     // be the parent origin used to send/receive messages

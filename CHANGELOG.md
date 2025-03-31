@@ -309,7 +309,7 @@ buttons are present. This feature is disabled by default.
 ### Added
 - Installation support for eu-west-1 and ap-southeast-2
 - CSS Style information and default customization css file
-- Fixed defects with respect to the default Order Flowers Bot installation
+- Fixed defects with respect to the default CloudIDP Helper installation
 - Several pull requests
 
 ## [0.14.9] - 2019-11-25
